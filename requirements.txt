@@ -1,0 +1,12 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+tqdm
+matplotlib
+seaborn
+requests
+wordcloud
+graphviz
+python-dotenv

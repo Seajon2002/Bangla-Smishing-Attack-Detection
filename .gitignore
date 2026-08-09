@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+
+# Datasets / local data
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Large model checkpoints
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
